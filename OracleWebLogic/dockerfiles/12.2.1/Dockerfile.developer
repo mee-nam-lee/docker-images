@@ -34,7 +34,8 @@
 #
 # Pull base image
 # ---------------
-FROM oracle/serverjre:8
+#FROM oracle/serverjre:8
+FROM mnlee30/docker-images:serverjre-8
 
 # Maintainer
 # ----------
